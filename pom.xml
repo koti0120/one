@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.109.56.113:8081/repository/ccit-releases/</url>
+		    <url>http://54.197.21.153:8081/repository/koti-release/</url>
 		</repository>
   	</distributionManagement>
 	
